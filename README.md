@@ -27,3 +27,5 @@ This section contains all the information about the group members and their univ
 In the toolbar section, there is a suggestion section where the user can provide any suggestions to improve the app and these suggestions 
 will be stored in a REAL-TIME-DATABASE that can be viewed by the creator.
 
+Below there are few screenshots of the app.
+[Apps screenshots.pdf](https://github.com/tharunkumark34/Mobile_Application_Development/files/10248393/Apps.screenshots.pdf)
