@@ -16,7 +16,7 @@ Which returns the day of that particular date.
 In this section,the user is asked to pick the time from the timepicker as input
 and will get the exact angle between the hour hand and the minute hand.
 
-3. REMINDER:-
+3.REMINDER:-
 In this section, User can set a reminder/alarm for any specific work,user is asked to enter the reminder's title(optional) and pick the time.
 The app will raise an alarm on that specified time.
 
