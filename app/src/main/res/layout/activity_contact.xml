@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".contact"
+    android:background="@drawable/contact">
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="48dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="358dp"
+        android:layout_marginBottom="737dp"
+        android:background="@drawable/back"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="196dp"
+        android:layout_height="61dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="103dp"
+        android:layout_marginBottom="644dp"
+        android:text="About us"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName6"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="97dp"
+        android:layout_marginBottom="452dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:padding="14dp"
+        android:text="Nikesh Kumar"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="65dp"
+        android:layout_height="52dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="260dp"
+        android:layout_marginBottom="578dp"
+        app:srcCompat="@drawable/person" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName4"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="106dp"
+        android:layout_marginBottom="580dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:padding="9dp"
+        android:text="Tharun Kumar"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName5"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="104dp"
+        android:layout_marginBottom="517dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:padding="11dp"
+        android:text="Chinmoy Nath"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="65dp"
+        android:layout_height="52dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="260dp"
+        android:layout_marginBottom="513dp"
+        app:srcCompat="@drawable/person" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="65dp"
+        android:layout_height="52dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="260dp"
+        android:layout_marginBottom="452dp"
+        app:srcCompat="@drawable/person" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="62dp"
+        android:layout_height="75dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="66dp"
+        android:layout_marginBottom="352dp"
+        app:srcCompat="@drawable/email" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName7"
+        android:layout_width="331dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="307dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:padding="12dp"
+        android:text="tharun.21bce8765@vitapstudent.ac.in"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName8"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="262dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:padding="12dp"
+        android:text="chinmoy.21bce8196@vitapstudent.ac.in"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName9"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="213dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:padding="12dp"
+        android:text="nikesh.21bce8603@vitapstudent.ac.in"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="184dp"
+        android:layout_height="55dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="146dp"
+        android:layout_marginBottom="359dp"
+        android:text="Contact Us"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="69dp"
+        android:layout_height="81dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="308dp"
+        android:layout_marginBottom="35dp"
+        android:clickable="true"
+
+        app:srcCompat="@drawable/insta"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="76dp"
+        android:layout_height="68dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="169dp"
+        android:layout_marginBottom="41dp"
+        android:clickable="true"
+        app:srcCompat="@drawable/ll"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="112dp"
+        android:layout_height="126dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="15dp"
+        android:clickable="true"
+        app:srcCompat="@drawable/logo"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+</RelativeLayout>
